@@ -1,0 +1,3 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;jobnet;requests;1565962463.686556;-0.7857675552368164;https://job.jobnet.dk/CV/FindWork/Search;https://job.jobnet.dk/CV/FindWork/Search;105832;200;True;
+0;jobnet;requests;1565986029.87268;-0.27300000190734863;https://job.jobnet.dk/CV/FindWork/Search;https://job.jobnet.dk/CV/FindWork/Search;105320;200;True;
