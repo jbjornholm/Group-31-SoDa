@@ -1,0 +1,2 @@
+
+9;negative;requests;1566379464.3700619;-0.1062631607055664;http://ptrckprry.com/course/ssd/data/negative-words.txt;http://ptrckprry.com/course/ssd/data/negative-words.txt;46299;200;True;
