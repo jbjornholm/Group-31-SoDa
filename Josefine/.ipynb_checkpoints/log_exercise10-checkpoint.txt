@@ -1,0 +1,2 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;call;requests;1565963364.382565;-1.906581163406372;https://www.basketball-reference.com/leagues/NBA_2018.html;https://www.basketball-reference.com/leagues/NBA_2018.html;668666;200;True;
