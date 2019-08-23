@@ -1,0 +1,11 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;finding_actress_names;requests;1566461158.623056;-2.844255208969116;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
+1;finding_actress_names;requests;1566461166.977993;-3.617583990097046;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
+2;finding_actress_names;requests;1566461272.4241369;-3.2565760612487793;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
+3;finding_actress_names;requests;1566461283.2746959;-3.5314650535583496;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
+4;finding_actress_names;requests;1566461685.153541;-3.114548921585083;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
+5;finding_actress_names;requests;1566462233.8663611;-3.957247018814087;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
+6;finding_actress_names;requests;1566462297.012583;-3.441512107849121;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
+7;finding_actress_names;requests;1566462313.077554;-3.463590145111084;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
+8;finding_actress_names;requests;1566462331.0479481;-3.2988626956939697;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
+9;finding_actress_names;requests;1566462478.283999;-2.969202995300293;https://www.imdb.com/list/ls022928836/;https://www.imdb.com/list/ls022928836/;262048;200;True;
