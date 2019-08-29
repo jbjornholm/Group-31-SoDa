@@ -1,0 +1,4 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;Exam, KU, Female Page 1;requests;1567067084.721803;-4.240767240524292;https://imdb.com/list/ls022928836/?sort=list_order,asc&mode=detail&page=1;https://www.imdb.com/list/ls022928836/?sort=list_order,asc&mode=detail&page=1;262165;200;True;
+1;Exam, KU, Female Page 2;requests;1567067089.8152156;-3.9601285457611084;https://imdb.com/list/ls022928836/?sort=list_order,asc&mode=detail&page=2;https://www.imdb.com/list/ls022928836/?sort=list_order,asc&mode=detail&page=2;261883;200;True;
+2;Exam, KU, Female Page 3;requests;1567067094.5802379;-4.487499952316284;https://imdb.com/list/ls022928836/?sort=list_order,asc&mode=detail&page=3;https://www.imdb.com/list/ls022928836/?sort=list_order,asc&mode=detail&page=3;262087;200;True;
